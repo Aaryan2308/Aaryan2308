@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Aaryan Raj</h1>
 <h3 align="center">A passionate full stack AI developer from India</h3>
 
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnFtN3BpNWswbmJyM3JiZDFyMnJkYTJia2duMHJieTVkMTBlcnBmeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lVbZ3Puzl3qFlU77ri/giphy.gif" alt="developer gif" width="300"/>
+</p>
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aaryan2308&label=Profile%20views&color=0e75b6&style=flat" alt="aaryan2308" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aaryan2308" alt="aaryan2308" /></a> </p>
