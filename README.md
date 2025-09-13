@@ -5,9 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aaryan2308" alt="aaryan2308" /></a> </p>
 
+- 🔭 I’m currently working on **Appointment booking system**
+
 - 🌱 I’m currently learning **FastAPI, Machine Learning**
 
-- 💬 Ask me about **Python,FastAPI**
+- 💬 Ask me about **Python,FastAPI,Machine Learning,HTML,CSS**
 
 - 📫 How to reach me **raj.0123.aaryan@gmail.com**
 
